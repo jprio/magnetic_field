@@ -1,6 +1,6 @@
 Visualizing the Magnetic Field
 
-![Magnetic field with 2 wires.](mag-field.png)
+![Magnetic field with 2 wires.](mag_field.png)
 
 Références :
 * https://medium.com/@mathcube7/visualizing-the-magnetic-field-in-python-2d4fc4509a21
